@@ -11,15 +11,15 @@ redirect_from:
 
 I am Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  My research lies at the intersection of data-efficient machine learning, control engineering, and robotics. In particular, I am exploring the usage of low-rank approximation techniques (aka tensor methods) to develop algorithms for Robot Control and Motion Planning that were previously considered to be intractable. 
  
+<!-- 
 
-
-<!-- Some useful links
+Some useful links
 ======
 
 My latest research: [`click here`](/publications/)
 
- -->Resume / CV: [`click here`](/files/cv/cv.pdf)
-
+Resume / CV: [`click here`](/files/cv/cv.pdf)
+ -->
 <!-- 
 ## Latest news
 
