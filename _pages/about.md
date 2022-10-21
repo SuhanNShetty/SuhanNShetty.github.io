@@ -13,12 +13,12 @@ I am Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](ht
  
 
 
-Some useful links
+<!-- Some useful links
 ======
 
 My latest research: [`click here`](/publications/)
 
-Resume / CV: [`click here`](/files/cv/cv.pdf)
+ -->Resume / CV: [`click here`](/files/cv/cv.pdf)
 
 <!-- 
 ## Latest news
