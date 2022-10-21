@@ -1,7 +1,7 @@
 ---
 title: "Ergodic Exploration using Tensor Train: Applications in Insertion Tasks"
 collection: publications
-permalink: /publication/2021-2021-Erogodic Exploration using Tensor Train: Applications in Insertion Tasks
+permalink: /publication/2021-Erogodic Exploration using Tensor Train
 
 excerpt: 'By generating control policies that create natural search behaviors, ergodic control provides a principled solution to address tasks that require exploration. Since a large class of ergodic control algorithms relies on spectral analysis, they suffer from the curse-of-dimensionality, both in storage and computation. This drawback has prohibited the application of ergodic control in robot manipulation since it often requires exploration in state space with more than 2 dimensions. Indeed, the original ergodic control formulation will typically not allow exploratory behaviors to be generated for a complete 6D end-effector pose. In this research work, we propose a solution for ergodic exploration in multidimensional spaces using low-rank tensor approximation techniques.'
 # date: 2021-06-01
