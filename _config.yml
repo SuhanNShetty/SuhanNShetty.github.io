@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juan Pablo Zuluaga"
+title                    : "Suhan Shetty"
 title_separator          : "-"
-name                     : &name "Juan Pablo"
+name                     : &name "Suhan Shetty"
 description              : &description "personal description"
-url                      : https://juanpzuluaga.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://suhannshetty.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,14 +55,14 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &Pablogomez3
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+# # Social Sharing
+# twitter:
+#   username               : &Pablogomez3
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Pablo Zuluaga"
+  name             : "Suhan Shetty"
   avatar           : "profile.png"
   bio              : "PhD Student | École polytechnique fédérale de Lausanne ‐ EPFL"
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.ru/citations?user=_9_Ja2MAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=yLf21MoAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Juan-Pablo-Zuluaga"
+  researchgate     :  "https://www.researchgate.net/profile/Suhan-Shetty-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JuanPZuluaga"
+  github           : "SuhanNShetty"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/juan-pablo-zuluaga-gomez-co/"
-  orcid            : "https://orcid.org/0000-0002-6947-2706"
+  linkedin         : "https://www.linkedin.com/in/suhanshetty/"
+  # orcid            : "https://orcid.org/0000-0002-6947-2706"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Pablogomez3"
+  # twitter          : "Pablogomez3"
   vine             :
   weibo            :
   xing             :
