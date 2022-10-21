@@ -18,7 +18,7 @@ Some useful links
 
 My latest research: [`click here`](/publications/)
 
-Resume / CV: [`click here`](/cv/)
+Resume / CV: [`click here`](/files/cv/cv.pdf)
 
 <!-- 
 ## Latest news
