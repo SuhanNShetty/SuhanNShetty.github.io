@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suhan Shetty"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Student | École polytechnique fédérale de Lausanne ‐ EPFL"
   location         : "Lausanne, Switzerland"
   employer         :
