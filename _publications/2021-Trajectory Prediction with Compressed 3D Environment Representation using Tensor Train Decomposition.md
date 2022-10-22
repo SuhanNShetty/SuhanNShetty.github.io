@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-Trajectory Prediction with Compressed 3D Environment Representation using Tensor Train Decomposition
 
 excerpt: 'Trajectory optimization for motion planning is a fundamental problem in robotics. Algorithms typically require good initialization in order to find optimal trajectories. To provide such initialization, many approaches rely on the concept of memory of motion, where a function approximator is trained on a database of robot trajectories to predict good initial trajectories for novel situations, and hence speeding up the subsequent trajectory optimization process. To be able to generalize well to new environment, an expressive environment descriptor is necessary. We propose to encode the environment by discretized signed distance functions (SDF) which are then compressed using a tensor train (TT) decomposition approach.'
-# date: 2022-06-01
+date: 2021
 # venue: 'Vibroengineering PROCEDIA, Vol. 26'
 # website: 'https://sites.google.com/view/ttgo/home'
 paperurl: 'https://ieeexplore.ieee.org/document/9659407'

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Trajectory based deep policy search for quadrupedal walking
 
 excerpt: 'In this paper, we explore a specific form of deep reinforcement learning (D-RL) technique for quadrupedal walking—trajectory based policy search via deep policy networks. Existing approaches determine optimal policies for each time step, whereas we propose to determine an optimal policy for each walking step. We justify our approach based on the fact that animals including humans use “low” dimensional trajectories at the joint level to realize walking.'
-# date: 2022-06-01
+date: 2019
 # venue: 'Vibroengineering PROCEDIA, Vol. 26'
 # website: 'https://sites.google.com/view/ttgo/home'
 paperurl: 'https://ieeexplore.ieee.org/document/8956369'

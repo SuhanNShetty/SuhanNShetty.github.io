@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-Tensor Train for Global Optimization Problems in Robotics
 
 excerpt: 'The convergence of many numerical optimization techniques is highly sensitive to the initial guess provided to the solver. We propose an approach based on low-rank tensor approximation techniques to initialize the existing optimization solvers close to the optima. The approach uses only the definition of the cost function (no gradient information is required) and does not need access to any database of good solutions. This renders the method less susceptible to getting stuck in poor local optima as compared to gradient-based methods.'
-# date: 2022-06-01
+date: 2022
 # venue: 'Vibroengineering PROCEDIA, Vol. 26'
 website: 'https://sites.google.com/view/ttgo/home'
 paperurl: 'https://arxiv.org/pdf/2206.05077.pdf'
