@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Trajectory Tracking and Control of Car-Like Robots
 
 excerpt: 'This paper deals with trajectory tracking control of a car-like robot. By exploiting the differential flatness property of the system based on the dynamics, a trajectory tracking controller using flatness-based control techniques is designed. A singularity in the system for the chosen control inputs, which does not allow direct application of feedback linearization control, is identified and this singularity is overcome by applying the dynamics-extension algorithm to obtain a dynamic feedback linearized controller. This controller results in asymptotic tracking convergence of the system’s trajectory to the reference trajectory. Through numerical simulations, the control system is shown to track prescribed trajectories satisfactorily even in the presence of parametric uncertainties.'
-date: 2019
+date: 2018-08-29
 # venue: 'Vibroengineering PROCEDIA, Vol. 26'
 # website: 'https://sites.google.com/view/ttgo/home'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-10-8597-0_65'
