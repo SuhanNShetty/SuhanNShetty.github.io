@@ -8,9 +8,10 @@ By generating control policies that create natural search behaviors, ergodic con
 
  We leverage our algorithm for high-dimensional ergodic exploration to solve the peg-in-hole insertion problem. We model peg-in-hole insertion task as a target detection problem and use our ergodic controller for the exploration in the 6D state space of the robot end-effector. The approach is applied to a peg-in-hole insertion task using a 7-axis Franka Emika Panda robot, where ergodic exploration allows the task to be achieved without requiring the use of force/torque sensors but only using human demonstrations. The approach can handle uncertainties in the location of the hole and/or graspings of the peg that typically exists in insertion tasks.'
 date: 2022-03-01
-# venue: 'Vibroengineering PROCEDIA, Vol. 26'
-website: 'https://sites.google.com/view/ergodic-exploration/'
-paperurl: 'https://ieeexplore.ieee.org/document/9473030'
+venue: 'IEEE T-RO'
+# website: 'https://sites.google.com/view/ergodic-exploration/'
+paperurl: 'https://sites.google.com/view/ergodic-exploration/'
+#'https://ieeexplore.ieee.org/document/9473030'
 citation: 'S Shetty, J Silvério, S Calinon, Ergodic Exploration using Tensor Train: Applications in Insertion Tasks, IEEE Transactions on Robotics (T-RO)'
 ---
 

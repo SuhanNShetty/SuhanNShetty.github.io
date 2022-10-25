@@ -8,8 +8,7 @@ walking—trajectory based policy search via deep policy networks. Existing appr
 # date: 2019
 date: 2019-10-14
 
-# venue: 'Vibroengineering PROCEDIA, Vol. 26'
-# website: 'https://sites.google.com/view/ttgo/home'
+venue: 'RO-MAN'
 paperurl: 'https://ieeexplore.ieee.org/document/8956369'
 citation: ' S Kolathaya, A Joglekar, S Shetty, D Dholakiya, A Sagi, S Bhattacharya, A Singla, S Bhatnagar, A Ghosal, B Amrutur, Trajectory based deep policy search for quadrupedal walking, 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 ---
