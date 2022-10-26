@@ -19,6 +19,33 @@ decomposition, Tucker decomposition, Hierarchical Tucker decomposition, and Tens
 
 In essence, they allow us to represent multi-dimensional functions (or an array) in variable separation form (i.e., sum of product of univariate functions). Such representations yield fast approaches to perform algebraic operations like additions, multiplication, hadamard product and many more in an efficient manner. Many challenges such as multi-variate integration and probailistic analysis can be performed elegantly if we assume such representation. This leads to solving many problems in robotics which were previously considered to be intractable. See my publication list to see some examples of solved problems (and many more to come!).  
  
+## Latest News
+
+### 2022
+- Our paper "Tensor Train for Global Optimization Problems in Robotics" is out on arXiv 
+  - Website: https://sites.google.com/view/ttgo/home
+
+### 2021
+- Our paper "Ergodic Exploration using Tensor Train: Applications in Insertion task" won the best paper award of the year (2021) from the institute Idiap Research Institute, Martigny
+
+- Our paper "Trajectory Prediction with Compressed 3D Environment Representation using Tensor Train Decomposition" is accepted at ICAR  
+
+- Our paper "Ergodic Exploration using Tensor Train: Applications in Insertion task" is accepted for publication at IEEE T-RO
+  - Website: https://sites.google.com/view/ergodic-exploration/
+
+### 2019
+- (June) Started my PhD at EPFL and as a Research Assistent at Idiap Research Institute, Martigny 
+
+- (Feb) Joined Robert Bosch Center for Cyber-Physical systems as a Research Associate
+  - I will be applying Reinforcement Learning to generate walking gaits for a quadruped called Stoc which is developed in-house
+
+### 2016
+- Started working at The MathWorks Inc, India in the Engineerinf Development Group
+  - I will be working with MATLAB, Simulink, Robotics System Toolbox, Automated Driving System Toolbox 
+
+### 2014
+- Started a master's degree in Mechanical Engineering at the Indian Institute of Science, Bangalore
+  - I will be focusing on Dynamic Systems and Control 
 <!-- 
 
 Some useful links
@@ -28,6 +55,8 @@ My latest research: [`click here`](/publications/)
 
 Resume / CV: [`click here`](/files/cv/cv.pdf)
  -->
+
+
 <!-- 
 ## Latest news
 
