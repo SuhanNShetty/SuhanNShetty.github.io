@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  My research lies at the intersection of data-efficient machine learning, control engineering, and robotics. In particular, I am exploring the usage of **low-rank tensor approximation techniques** (aka tensor methods) to develop algorithms for Robot Control and Motion Planning that were previously considered to be intractable. 
+I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  My research lies at the intersection of data-efficient machine learning, control engineering, and robotics. In particular, I am exploring the usage of **low-rank tensor approximation techniques** (aka tensor methods) to develop algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
 
 ### What is low-rank tensor approximation technique?
 
@@ -17,7 +17,7 @@ Low-rank tensor appoximation techniques (aka Tensor factorization techniques or 
 (i.e., tensors). These techniques approximate a given tensor compactly using a set of lower-dimensional arrays (called factors). In addition to the compact representation, they allow efficient algebraic operations to be performed on them. Popular tensor factorization techniques include CP/PARAFAC
 decomposition, Tucker decomposition, Hierarchical Tucker decomposition, and Tensor Train (TT)for applications in machine learning.
 
-In essence, they allow us to represent multi-dimensional functions (or an array) in variable separation form (i.e., sum of product of univariate functions). Such representations yield fast approaches to perform algebraic operations like additions, multiplication, hadamard product and many more in an efficient manner. Many challenges such as multi-variate integration and probailistic analysis can be performed elegantly if we assume such representation. This leads to solving many problems in robotics which were previously considered as intractable. See my publication list to see some examples of solved problems (and many more to come!).  
+In essence, they allow us to represent multi-dimensional functions (or an array) in variable separation form (i.e., sum of product of univariate functions). Such representations yield fast approaches to perform algebraic operations like additions, multiplication, hadamard product and many more in an efficient manner. Many challenges such as multi-variate integration and probailistic analysis can be performed elegantly if we assume such representation. This leads to solving many problems in robotics which were previously considered to be intractable. See my publication list to see some examples of solved problems (and many more to come!).  
  
 <!-- 
 
