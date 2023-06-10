@@ -18,9 +18,18 @@ If you are curious about my research, checkout my [previous work]((https://sites
 Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics computing including quantum computing. They are particularly interesting for robotics as they are highly interpretable and  allow efficient algebraic operations to be performed on them. Furthermore, they are much more efficient and accurate for many commonly encountered applications in robotics. See my publication list for details.  
 
 ## What can you do with tensor approximation?
-[Control](../images/cartpole.gif)
+### Motion Planning:
+![](../images/ttgo_no_task_1.gif)
 
- 
+### Control of highly nonlinear and discontinuous systems:
+![](../images/cartpole.gif)
+![](../images/pendulum_swinup.gif)
+![](../images/box_pivot.gif)
+![](../images/pusshing_sim.gif)
+![](../images/pusing_hw.gif)
+
+
+
 ## Latest News
 ### 2023
 - [June - September] I will be doing summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). 
