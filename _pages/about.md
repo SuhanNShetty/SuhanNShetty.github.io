@@ -18,11 +18,10 @@ If you are curious about my research, checkout my [previous work]((https://sites
 Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics computing including quantum computing. They are particularly interesting for robotics as they are highly interpretable and  allow efficient algebraic operations to be performed on them. Furthermore, they are much more efficient and accurate for many commonly encountered applications in robotics. See my publication list for details.  
 
 ## What can you do with tensor approximation?
-### Motion Planning:
+### Motion Planning: Global Optimization + Multiple Solutions
 ![](../images/ttgo_no_task_1.gif "Multiple solutions")
 
 ### Control of under-actuated systems:
-
 <div>
     <div style="display:inline-block; width:50%;">
         <p align="center">
@@ -41,11 +40,11 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
     </div>
 </div>
 
-### Control of discontiuous systems:
+### Control of Systems with Hybrid Contact Dynamics:
 
 ![](../images/box_pivot.gif)
 
-### Control of Hybrid-systems: Planar Pushing Task
+### Control of Systems with Hybrid State and Action Space: Planar Pushing Task
 
 <div>
     <div style="display:inline-block; width:50%;">
@@ -64,15 +63,6 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
         </p>
     </div>
 </div>
-
-<!-- | Pendulum Swingup | Cart-Pole Swingup | 
-| ------------------- | ------------------- |
-| ![](../images/pendulum_swinup.gif) | ![](../images/cartpole.gif)|
-
-| Planar Pushing | Experiment | 
-| ------------------- | ------------------- |
-
-| ![](../images/pusshing_sim.gif "Non-prehensile ") | ![](../images/pusing_hw.gif) | -->
 
 
 
