@@ -26,7 +26,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 ### 2023
 - [June - September] I will be doing summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). 
 
-- Our paper on "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in ICRA-2023 
+- Workshop paper "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in [ICRA-2023](https://sites.google.com/view/icra2023embracingcontacts/home?pli=1) 
   - [workshop paper](https://openreview.net/pdf?id=nhiMzuaPoP)
   - The main paper will be released soon (watchout for some cool results where we outperform RL algorithms on some highly challenging control tasks)
 
