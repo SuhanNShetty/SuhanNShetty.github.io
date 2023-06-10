@@ -22,7 +22,26 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 ![](../images/ttgo_no_task_1.gif "Multiple solutions")
 
 ### Control of highly nonlinear and discontinuous systems:
-| Pendulum Swingup | Cart-Pole Swingup | 
+
+
+<div>
+    <div style="display:inline-block; width:50%;">
+        <p align="center">
+            <img src="../images/pendulum_swinup.gif" alt="First GIF" width="400">
+            <br>
+            <em>Pendulum Swing-up</em>
+        </p>
+    </div>
+    <div style="display:inline-block; width:50%;">
+        <p align="center">
+            <img src="../images/cartpole.gif" alt="Second GIF" width="400">
+            <br>
+            <em>Cart-Pole Swing-up </em>
+        </p>
+    </div>
+</div>
+
+<!-- | Pendulum Swingup | Cart-Pole Swingup | 
 | ------------------- | ------------------- |
 | ![](../images/pendulum_swinup.gif) | ![](../images/cartpole.gif)|
 
@@ -30,7 +49,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 | Planar Pushing | Experiment | 
 | ------------------- | ------------------- |
 
-| ![](../images/pusshing_sim.gif "Non-prehensile ") | ![](../images/pusing_hw.gif) |
+| ![](../images/pusshing_sim.gif "Non-prehensile ") | ![](../images/pusing_hw.gif) | -->
 
 
 
