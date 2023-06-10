@@ -9,19 +9,30 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  My research lies at the intersection of data-efficient machine learning, control engineering, and robotics. In particular, I am exploring the usage of **low-rank tensor approximation techniques** to develop algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable.
+I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  
 
-In the Robot Learning and Interaction group, I am developing algorithms for robotic exploration as used in the project CoLLaboratE for industrial assembly tasks, reinforcement learning, and fast optimization algorithms as used in projects Learn-Real and MEMMO for robot control and motion planning. For example, I have developed fast algorithms to find the Fourier series coefficients for higher dimensional functions which lead to a scalable ergodic exploration algorithm ([paper](https://sites.google.com/view/ergodic-exploration/)). In another recent work, I have come up with a new methodology for global optimization of non-convex functions which were applied to inverse kinematics and motion planning of manipulators [(paper)]((https://sites.google.com/view/ttgo/home)). Currently, I am trying to scale up well-known reinforcement learning algorithms that were previously considered to suffer from the curse of dimensionality. 
+
+My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **tensor approximation techniques** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
+
+If you are curious about my research, checkout my [(previous work)]((https://sites.google.com/view/ttgo/home)) where I proposed a new methodology, called TTGO, for global optimization of non-convex functions encountered in robotics. It provides state-of-art results to solve some of the problems in robotics including inverse kinematics, motion planning and control, and it was applied in in projects Learn-Real and MEMMO.
+
+My latest work is development of approximate dynamic programming algorithm,called TTPI, which provides a novel way to design controllers for highly nonlinear systems, including systems invloving hybrid states and actions. The approach beats state-of-art approximate dynamic programming and reinforcement learning algorithms for control synthesis for several benchmark control problems commonly encountered in robotics. This was developed under the Learn-Real project.
+
+ In one of my previous works, I have also developed fast algorithms to find the Fourier series coefficients for higher dimensional functions which lead to a scalable ergodic exploration algorithm ([paper](https://sites.google.com/view/ergodic-exploration/)). This was applied in the project CoLLaboratE for industrial assembly tasks.
+
+ Currently, I am trying to scale up well-known reinforcement learning algorithms that were previously considered to suffer from the curse of dimensionality.
 
 ## What is low-rank tensor approximation?
 
-Low-rank tensor appoximation techniques (aka Tensor factorization techniques or Tensor Networks in applied physics) are extensions of matrix factorization techniques into multidimensional arrays
-(i.e., tensors). These techniques approximate a given tensor compactly using a set of lower-dimensional arrays (called factors). In addition to the compact representation and existence of powerful algorithms to find such representation, they allow efficient algebraic operations to be performed on them. Popular tensor factorization techniques include CP/PARAFAC
-decomposition, Tucker decomposition, Hierarchical Tucker decomposition, and Tensor Train (TT).
-
-In essence, they allow us to represent multi-dimensional functions (or arrays) in a variable separation form (i.e., sum of product of univariate functions). Such representations yield fast approaches to perform algebraic operations like additions, multiplication, hadamard product and many more in an efficient manner. Many challenges such as multi-variate integration and probailistic analysis can be performed elegantly if we assume such representation. This leads to solving many problems in robotics which were previously considered to be intractable. See my publication list to see some examples of solved problems (and many more to come!).  
+Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics computing including quantum computing. They are particularly interesting for robotics as they are highly interpretable and  allow efficient algebraic operations to be performed on them. Furthermore, they are much more efficient and accurate for many commonly encountered applications in robotics. See my publication list for details.  
  
 ## Latest News
+
+### 2023
+- Our paper on "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in ICRA2023 
+  - [workshop paper](https://openreview.net/pdf?id=nhiMzuaPoP)
+  - The main paper will be released soon (watchout for some cool results)
+
 
 ### 2022
 - Our paper "Tensor Train for Global Optimization Problems in Robotics" is out on arXiv 
