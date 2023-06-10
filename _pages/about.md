@@ -21,8 +21,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 ### Motion Planning:
 ![](../images/ttgo_no_task_1.gif "Multiple solutions")
 
-### Control of highly nonlinear and discontinuous systems:
-
+### Control of under-actuated systems:
 
 <div>
     <div style="display:inline-block; width:50%;">
@@ -34,9 +33,34 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
     </div>
     <div style="display:inline-block; width:50%;">
         <p align="center">
-            <img src="../images/cartpole.gif" alt="Second GIF" width="400">
+            <img src="../images/cartpole.gif" alt="Second GIF" 
+            width="400">
             <br>
             <em>Cart-Pole Swing-up </em>
+        </p>
+    </div>
+</div>
+
+### Control of discontiuous systems:
+
+![](../images/box_pivot.gif)
+
+### Control of Hybrid-systems: Planar Pushing Task
+
+<div>
+    <div style="display:inline-block; width:50%;">
+        <p align="center">
+            <img src="../images/pusshing_sim.gif" alt="First GIF" width="400">
+            <br>
+            <em>Simulation</em>
+        </p>
+    </div>
+    <div style="display:inline-block; width:50%;">
+        <p align="center">
+            <img src="../images/pusing_hw.gif" alt="Second GIF" 
+            width="400">
+            <br>
+            <em> Hardware Experiments </em>
         </p>
     </div>
 </div>
@@ -45,7 +69,6 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 | ------------------- | ------------------- |
 | ![](../images/pendulum_swinup.gif) | ![](../images/cartpole.gif)|
 
-![](../images/box_pivot.gif)
 | Planar Pushing | Experiment | 
 | ------------------- | ------------------- |
 
