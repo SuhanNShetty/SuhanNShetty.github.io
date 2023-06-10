@@ -68,7 +68,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 
 ## Latest News
 ### 2023
-- [June - September] I will be doing summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). 
+- [June - September] Started summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). 
 
 - Workshop paper "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in [ICRA-2023](https://sites.google.com/view/icra2023embracingcontacts/home?pli=1) 
   - [workshop paper](https://openreview.net/pdf?id=nhiMzuaPoP)
