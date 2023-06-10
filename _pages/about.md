@@ -19,14 +19,12 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 
 ## What can you do with tensor approximation?
 ### Motion Planning:
-![](../images/ttgo_no_task_1.gif)
+![](../images/ttgo_no_task_1.gif, "Multiple solutions")
 
 ### Control of highly nonlinear and discontinuous systems:
-![](../images/cartpole.gif)
-![](../images/pendulum_swinup.gif)
-![](../images/box_pivot.gif)
-![](../images/pusshing_sim.gif)
-![](../images/pusing_hw.gif)
+![](../images/pendulum_swinup.gif, "Pendulum Swingup") ![](../images/cartpole.gif,'Cart-Pole Swingup')
+![](../images/box_pivot.gif,"Box Pivoting Task")
+![](../images/pusshing_sim.gif,"Non-prehensile Plananr Pushing") ![](../images/pusing_hw.gif)
 
 
 
