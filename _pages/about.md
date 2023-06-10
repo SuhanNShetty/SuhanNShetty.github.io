@@ -12,13 +12,9 @@ redirect_from:
 I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  
 
 
-My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **tensor approximation techniques** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
+My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **low-rank tensor approximation techniques** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
 
-If you are curious about my research, checkout my [(previous work)]((https://sites.google.com/view/ttgo/home)) where I proposed a new methodology, called TTGO, for global optimization of non-convex functions encountered in robotics. It provides state-of-art results to solve some of the problems in robotics including inverse kinematics, motion planning and control, and it was applied in in projects Learn-Real and MEMMO.
-
-My latest work is development of approximate dynamic programming algorithm,called TTPI, which provides a novel way to design controllers for highly nonlinear systems, including systems invloving hybrid states and actions. The approach beats state-of-art approximate dynamic programming and reinforcement learning algorithms for control synthesis for several benchmark control problems commonly encountered in robotics. This was developed under the Learn-Real project.
-
- In one of my previous works, I have also developed fast algorithms to find the Fourier series coefficients for higher dimensional functions which lead to a scalable ergodic exploration algorithm ([paper](https://sites.google.com/view/ergodic-exploration/)). This was applied in the project CoLLaboratE for industrial assembly tasks.
+If you are curious about my research, checkout my [(previous work)]((https://sites.google.com/view/ttgo/home)) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. In my latest work, this is being used to develop optimal control techniques robotic systems (including those having discontinuities arising from contact). The approach beats state-of-art approximate dynamic programming and reinforcement learning algorithms for control synthesis for several benchmark control problems commonly encountered in robotics. 
 
  Currently, I am trying to scale up well-known reinforcement learning algorithms that were previously considered to suffer from the curse of dimensionality.
 
@@ -28,7 +24,10 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
  
 ## Latest News
 
+
 ### 2023
+- [June - September]I will be doing summer internship at Disney Research Studios, Zurich
+
 - Our paper on "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in ICRA2023 
   - [workshop paper](https://openreview.net/pdf?id=nhiMzuaPoP)
   - The main paper will be released soon (watchout for some cool results)
