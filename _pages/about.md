@@ -22,9 +22,11 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 ![](../images/ttgo_no_task_1.gif, "Multiple solutions")
 
 ### Control of highly nonlinear and discontinuous systems:
-![](../images/pendulum_swinup.gif, "Pendulum Swingup") ![](../images/cartpole.gif,'Cart-Pole Swingup')
+![](../images/pendulum_swinup.gif, "Pendulum Swingup") 
+![](../images/cartpole.gif,'Cart-Pole Swingup'=50%x)
 ![](../images/box_pivot.gif,"Box Pivoting Task")
-![](../images/pusshing_sim.gif,"Non-prehensile Plananr Pushing") ![](../images/pusing_hw.gif)
+![](../images/pusshing_sim.gif,"Non-prehensile Plananr Pushing") 
+![](../images/pusing_hw.gif)
 
 
 
