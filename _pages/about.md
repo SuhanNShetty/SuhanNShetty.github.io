@@ -15,7 +15,7 @@ My research in robotics lies at the intersection of data-efficient machine learn
 If you are curious about my research, checkout my [previous work]((https://sites.google.com/view/ttgo/home)) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. In my latest work, this is being used to learn control for some highly challenging tasks in robotics, outperforming existing reinforcement learning algorithms. 
 
 ## What is low-rank tensor approximation?
-Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics including quantum computing. They are particularly interesting for robotics as they offer interpretablity and can model functions in robotics with high accuracy. See my publication list for details.  
+Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics including quantum computing. They are particularly interesting for robotics as they offer interpretablity, algebraic manipulation and can model complex functions with high accuracy. See my publication list for more details.  
 
 ## What can you do with tensor approximation?
 ### Motion Planning: Global Optimization + Multiple Solutions
@@ -90,7 +90,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 ### 2019
 - (June) Started my **PhD at EPFL** and as a Research Assistent at **Idiap Research Institute, Martigny**.
 
-- (Feb) Joined Robert Bosch Center for Cyber-Physical systems as a Research Associate
+- (Feb) Joined **Robert Bosch Center for Cyber-Physical systems** as a Research Associate
   - I will be applying **Reinforcement Learning** to generate walking gaits for a quadruped called Stoc which is developed in-house.
 
 ### 2016
