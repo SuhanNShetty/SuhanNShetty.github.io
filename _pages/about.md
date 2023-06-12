@@ -44,14 +44,15 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 
 ![](../images/box_pivot.gif)
 
-### Control of Systems with Hybrid State and Action Space: Planar Pushing Task
+### Control of Systems with Hybrid State and Action Space: 
 
 <div>
+  <p align="center">
     <div style="display:inline-block; width:50%;">
         <p align="center">
             <img src="../images/pusshing_sim.gif" alt="First GIF" width="400">
             <br>
-            <em>Simulation</em>
+            <em>Planar Pushing Simulation</em>
         </p>
     </div>
     <div style="display:inline-block; width:50%;">
@@ -62,6 +63,8 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
             <em> Hardware Experiments </em>
         </p>
     </div>
+    <em> Planr Pushing </em>
+    </p>
 </div>
 
 
