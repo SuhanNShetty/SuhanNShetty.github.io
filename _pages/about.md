@@ -51,7 +51,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
         <p align="center">
             <img src="../images/pusshing_sim.gif" alt="First GIF" width="400">
             <br>
-            <em>Object Pushing Simulation</em>
+            <em>Non-Prehensile Manipulation (Object Pushing Task) </em>
         </p>
     </div>
     <div style="display:inline-block; width:50%;">
@@ -59,7 +59,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
             <img src="../images/pusing_hw.gif" alt="Second GIF" 
             width="400">
             <br>
-            <em> Real-World </em>
+            <!-- <em> Real-World </em> -->
         </p>
     </div>
 </div>
