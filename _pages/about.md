@@ -76,7 +76,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 
 
 ### 2022
-- Our paper "Tensor Train for Global Optimization Problems in Robotics" is out on arXiv 
+- Our paper "Tensor Train for Global Optimization Problems in Robotics" is out on arXiv (under review at the International Journal on Robotics Research (IJRR))
   - [Website](https://sites.google.com/view/ttgo/home)
 
 ### 2021
