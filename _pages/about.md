@@ -59,7 +59,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
             <img src="../images/pusing_hw.gif" alt="Second GIF" 
             width="400">
             <br>
-            <!-- <em> Real-World </em> -->
+            <em> Real-world </em>
         </p>
     </div>
 </div>
