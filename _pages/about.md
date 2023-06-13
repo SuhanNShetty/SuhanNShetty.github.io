@@ -12,7 +12,7 @@ I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](
 
 My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **low-rank tensor approximation techniques** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
 
-If you are curious about my research, checkout my [previous work]((https://sites.google.com/view/ttgo/home)) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. In my latest work, this is being used to learn control for some highly challenging tasks in robotics, outperforming existing reinforcement learning algorithms. 
+If you are curious about my research, checkout my [previous work](https://sites.google.com/view/ttgo/home) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. In my latest work, this is being used to learn control for some highly challenging tasks in robotics, outperforming existing reinforcement learning algorithms. 
 
 ## What is low-rank tensor approximation?
 Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics including quantum computing. They are particularly interesting for robotics as they offer interpretablity, algebraic manipulation and can model complex functions with high accuracy. See my publications for more details.  
