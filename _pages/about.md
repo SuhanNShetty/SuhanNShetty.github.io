@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/).  Currently, I am a research intern at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/).
+I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/) in the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research .  Recently, I finished a research intern at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). Prior to my PhD I have worked in the Engineering Development Group at The MathWorks Inc. and as Research Associate in the Robert Bosch Center for Cyber-Physical Systems, Bangalore.
 
 
-My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **low-rank tensor approximation techniques** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
+My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **tensor networks** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
 
-If you are curious about my research, checkout my [previous work](https://sites.google.com/view/ttgo/home) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. In my latest work, this is being used to learn control for some highly challenging tasks in robotics, outperforming existing reinforcement learning algorithms. 
+If you are curious about my research, checkout my [previous work](https://sites.google.com/view/ttgo/home) which proposes a new methodology for global optimization of non-convex functions encountered in robotics. CH In my [latest work](https://sites.google.com/view/ttpi4control/home), this is being used to learn some highly challenging control tasks in robotics, outperforming existing reinforcement learning algorithms. 
 
-## What is low-rank tensor approximation?
-Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics) are powerful function approximation techniques heavily used in physics including quantum computing. They are particularly interesting for robotics as they offer interpretablity, algebraic manipulation and can model complex functions with high accuracy. See my publications for more details.  
+## What are tensor networks?
+ Tensor Networks (aka. low-rank tensor appoximation techniques) are powerful function approximation techniques heavily used in physics including quantum computing. They are particularly interesting for robotics as they offer interpretablity, algebraic manipulation and can model complex functions with high accuracy. See my publications for more details.  
 
-## What can you do with tensor approximation?
+## What can you do with tensor networks?
 ### Motion Planning: Global Optimization + Multiple Solutions
 ![](../images/ttgo_no_task_1.gif "Multiple solutions")
 
@@ -68,7 +68,7 @@ Low-rank tensor appoximation techniques (aka Tensor Networks in applied physics)
 
 ## Latest News
 ### 2023
-- [June - September] Summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). 
+- [June - September] Summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). You can have a look [here](https://spectrum.ieee.org/disney-robot) for more details about the project I was part of.
 
 - Workshop paper "Dynamic Programming using Tensor Approximation for Contact-rich Manipulation" is presented in [ICRA-2023](https://sites.google.com/view/icra2023embracingcontacts/home?pli=1) 
   - [workshop paper](https://openreview.net/pdf?id=nhiMzuaPoP)
