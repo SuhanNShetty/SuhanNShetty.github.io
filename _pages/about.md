@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/) in the [Idiap Research Institute](https://www.idiap.ch/en). I am doing my research .  Recently, I finished a research internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). Prior to my PhD I have worked in the Engineering Development Group at The MathWorks Inc. and as Research Associate in the Robert Bosch Center for Cyber-Physical Systems, Bangalore.
+I am a Ph.D. student at the École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) and a research assistant at Robot Learning and Interaction group (RLI) under the supervision of [Dr.Sylvain Calinon](https://calinon.ch/) in the [Idiap Research Institute](https://www.idiap.ch/en). Recently, I finished a research internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). Prior to my PhD I have worked in the Engineering Development Group at The MathWorks Inc. and as Research Associate in the Robert Bosch Center for Cyber-Physical Systems, Bangalore.
 
 
 My research in robotics lies at the intersection of data-efficient machine learning and control engineering. In particular, using **tensor networks** I am developing algorithms for Robot Control, Reinforcement Learning, and Motion Planning that were previously considered to be intractable. 
