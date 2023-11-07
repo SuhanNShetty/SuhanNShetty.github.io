@@ -68,7 +68,7 @@ If you are curious about my research, checkout my [previous work](https://sites.
 
 ## Latest News
 ### 2023
-- - Our paper "Tensor Train for Global Optimization Problems in Robotics" is accepted for publication The International Journal of Robotics Research (IJRR)
+- Our paper "Tensor Train for Global Optimization Problems in Robotics" is accepted for publication The International Journal of Robotics Research (IJRR)
   - Check how it bring new perspective into numerical optimization in robotics [Website](https://sites.google.com/view/ttgo/home)
 
 - [June - September] Summer internship at [Disney Research Studios, Zurich](https://studios.disneyresearch.com/). You can have a look [here](https://spectrum.ieee.org/disney-robot) for more details about the project I was part of.
