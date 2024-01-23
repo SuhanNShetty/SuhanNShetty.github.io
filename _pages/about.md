@@ -67,6 +67,10 @@ If you are curious about my research, checkout my [previous work](https://sites.
 
 
 ## Latest News
+### 2024
+- Our paper "Generalized Policy Iteration using Tensor Approximation for Hybrid Control" is accepted as a Spotlight paper (5% acceptance rate) at the International Conference on Learning Representations (ICLR 2024).
+  - Check how it provides a novel methodology for robot control [Website](https://sites.google.com/view/ttpi4control/home)
+
 ### 2023
 - Our paper "Tensor Train for Global Optimization Problems in Robotics" is accepted for publication at The International Journal of Robotics Research (IJRR)
   - Check how it bring new perspective into numerical optimization in robotics [Website](https://sites.google.com/view/ttgo/home)
